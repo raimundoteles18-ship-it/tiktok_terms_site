@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ViralMind Uploader - Termos e Privacidade</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 50px auto; line-height: 1.6; }
+    h1 { color: #111; }
+    a { font-size: 18px; display: block; margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <h1>Site de Termos - ViralMind AI Uploader</h1>
+  <p>Selecione uma das opções abaixo:</p>
+
+  <a href="/privacidade.html">📄 Política de Privacidade</a>
+  <a href="/termos.html">📜 Termos de Uso</a>
+
+</body>
+</html>
